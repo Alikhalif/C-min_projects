@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661705348 source:c:\users\dell\documents\c\projet1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
